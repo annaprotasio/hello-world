@@ -10,3 +10,9 @@ In this section we list a series of useful links shared in the course
     
   GitHub workflow:
     https://guides.github.com/introduction/flow/
+
+Another very useful iste is the course website, provided by Alexia. Here is the link:
+
+https://cambiotraining.github.io/reproducibility-training/index.html
+
+**this is the same as in markdown, one can write in bold letters** *as well as intalics* -> very preatty :-)
