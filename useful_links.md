@@ -15,4 +15,4 @@ Another very useful iste is the course website, provided by Alexia. Here is the 
 
 https://cambiotraining.github.io/reproducibility-training/index.html
 
-**this is the same as in markdown, one can write in bold letters** *as well as intalics* -> very preatty :-)
+**this is the same as in markdown, one can write in bold letters** *as well as intalics* -> very pretty :-)
