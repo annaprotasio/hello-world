@@ -2,4 +2,9 @@
 A sandbox repository
 
 
-#Master_Exercise
+I am Anna Protasio. I am a computational biologist working on **DNA mobile genetic elements in parasitic flatworms**. During my PhD, I migrated from a 'wet-lab' scientist to being a 'dry-lab' researcher, which is a lot more fun.
+=======
+
+#Master_Exercise # added by Simon 
+
+
