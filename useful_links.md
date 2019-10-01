@@ -1,4 +1,6 @@
-  ~ links shared during the Reproducibility in R course
+# links shared during the Reproducibility in R course
+
+In this section we list a series of useful links shared in the course
   
   https://github.com/sblab-bioinformatics?tab=repositories
   
